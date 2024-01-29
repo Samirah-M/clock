@@ -1,9 +1,4 @@
 <h1 align="center">Welcome to clock 👋</h1>
-<p>
-  <a href="https://www.npmjs.com/package/team-profile-generator" target="_blank">
-    <img alt="Version" src="https://img.shields.io/npm/v/team-profile-generator.svg">
-  </a>
-</p>
 
 > This Clock Project is a simple web application that displays the current hour and minute in a visually appealing format. It was developed using HTML for structure, CSS for styling, and JavaScript for real-time functionality.
 
